@@ -87,9 +87,7 @@ Five specimens were tested per formulation (four valid results for PA56-B2).
 
 # Citation
 
-If you use this data, please cite the accompanying publication:
-
-> *Thermodynamically Guided Design of Phase Morphologies in Recycled Polypropylene via Reactive Compatibilisation with EPDM-g-MA: Role of Polarity and Chemical Reactivity.* Journal of Polymer Research.
+If this notebook contributes to your research, please cite the accompanying scientific publication.
 
 ---
 
